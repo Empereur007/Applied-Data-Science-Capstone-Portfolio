@@ -1,0 +1,16 @@
+Module-1-Introduction/
+│
+├── README.md
+├── notebooks/
+│   ├── 01_API_Data_Collection.ipynb
+│   ├── 02_Web_Scraping.ipynb
+│   └── 03_Data_Collection_Wrangling.ipynb
+│
+├── datasets/
+│
+├── images/
+│   ├── api_results.png
+│   ├── scraping_results.png
+│   └── dataframe_preview.png
+│
+└── requirements.txt
