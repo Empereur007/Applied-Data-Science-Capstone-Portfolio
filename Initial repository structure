@@ -1,0 +1,17 @@
+Applied-Data-Science-Capstone/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── Module-1-Introduction/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── datasets/
+│   └── images/
+│
+├── Module-2-Exploratory-Data-Analysis/
+├── Module-3-Interactive-Visual-Analytics/
+├── Module-4-Predictive-Analysis/
+├── Module-5-Data-Driven-Presentation/
+└── Final-Project/
