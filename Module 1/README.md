@@ -54,10 +54,6 @@ Module-1-Introduction/
 │   ├── 01_Data_Collection_SpaceX_API.ipynb
 │   ├── 02_Web_Scraping_Falcon9.ipynb
 │   └── 03_Data_Wrangling_Preparation.ipynb
-│
-├── datasets/
-│   └── dataset_part_1.csv
-│
 └── requirements.txt
 ```
 ---
