@@ -17,12 +17,13 @@ Au cours de cette formation, les objectifs étaient de :
 ```
 Applied-Data-Science-Capstone/
 │
-├── Module-1-Data-Collection/
-├── Module-2-Data-Wrangling/
-├── Module-3-Exploratory-Data-Analysis/
-├── Module-4-Interactive-Visual-Analytics/
-├── Module-5-Machine-Learning/
-└── Final-Project/
+├── README.md
+│
+├── Module-1-Introduction/
+├── Module-2-Analyse-Exploratoire-des-Donnees/
+├── Module-3-Analyse-Visuelle-Interactive-et-Tableaux-de-bord/
+├── Module-4-Analyse-Predictive-Classification/
+├── Module-5-Presentation-des-Idees-basees-sur-des-Donnees/
 ```
 Chaque dossier contient les notebooks, les jeux de données utilisés ainsi qu'un README décrivant les travaux réalisés.
 ---
