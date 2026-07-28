@@ -1,0 +1,12 @@
+Module 2 – Analyse Exploratoire des Données (AED)/
+│
+├── README.md
+├── notebooks/
+│   ├── 01_ Labo_Complétez_AED_avec_SQL.ipynb
+│   ├── 02_ AED_avec_laboratoire_de_visualisation.ipynb
+│
+├── datasets/
+│   └── dataset_part_2.csv
+│
+└── requirements.txt
+
