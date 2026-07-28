@@ -58,7 +58,8 @@ Module-1-Introduction/
 ├── datasets/
 │   └── dataset_part_1.csv
 │
-└── requirements.txt```
+└── requirements.txt
+```
 ---
 ## 🎓 Compétences acquises
 À l'issue de ce module, je suis capable de :
