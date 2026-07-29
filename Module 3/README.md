@@ -61,7 +61,7 @@ Module-3-Interactive-Visual-Analytics/
     ├── Dash2.png
     ├── Dash3.png
     ├── Dash4.png
-   ├── Dash4.png
+    ├── Dash4.png
     └── Dash6.png
 ```
 ---
